@@ -2,7 +2,7 @@
 layout: post
 title:  "Bam Lesson #1"
 date:   2021-11-29 17:00:00 -0800
-categories: oes 6th boys 2022
+categories: oes 6th boys
 ---
 
 <style>
