@@ -17,7 +17,7 @@ title: Basketball and Mindfulness (BAM)
 email: BAM.coach.b@thesanders.us
 description: >- # this means to ignore newlines until "baseurl:"
   Basketball and Mindfulness (BAM) is a program that develops skillful minds and bodies.  We practice habits that serve us both on and off the court.
-baseurl: "/bam.coach/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bam_coach
 github_username:  sanders
