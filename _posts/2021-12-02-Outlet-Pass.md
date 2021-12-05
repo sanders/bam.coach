@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6th Boys Fast Break"
+title:  "Outlet Pass"
 date:   2021-12-02 17:00:00 -0800
 categories: oes 6th boys
 ---
