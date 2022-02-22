@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "Jab Step"
-date:   2021-11-29 17:00:00 -0800
-categories: oes 6th boys
+layout: page
+title: Jab Step
+permalink: /jab-step/
 ---
+
 
 <style>
 /* .video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; } */
@@ -32,28 +32,28 @@ categories: oes 6th boys
 </style>
 
 
-<div class="video-container"><iframe src="https://player.vimeo.com/video/643058032?h=aa93eb773d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BAM Camp Intro Take 1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-### Introduction
-
-In the above video, Coach Brandon introduces himself and some of the main characters inside his head.  Oh ... and ... they're in your head too!
-
 <div class="video-container"><iframe src="https://www.youtube-nocookie.com/embed/WM90iRaOZ3w?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Fundamentals Of The Jab Step
 
-Start with this video and make sure you understand and have done copied Battier's example before moving on to the next video.
+Start with this video and make sure you understand and have practiced copying Shane Battier's example before moving on to the next video.
+
+<br>
+<br>
 
 
 <div class="video-container"><iframe src="https://www.youtube-nocookie.com/embed/Ggg1unQOFfY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### The Jab Step Breakdown Drill
 
-We're going to be doing this drill as part of our warmup before every practice.  Let's get good at it and make it crisp.
+Practice this drill over and over again.  Visualize a defender and how they react to your jab step.  The jab step is about reading the defender, don't skip the visualization! 
+
+<br>
+<br>
 
 
 <div class="video-container"><iframe src="https://www.youtube-nocookie.com/embed/gjLbJ2_UH7I?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### The Jab & Attack Drill
 
-Occasionally at practice we will also do this drill.  It's a good one to work on yourself at home.  Even if you don't have a basketball hoop, you can do this in your garage, your driveway, or even on a sidewalk.
+This is also a good drill to work on at home.  Even if you don't have a basketball hoop, you can do this in your garage, your driveway, or on the sidewalk.  Don't forget to visualize the defender!
